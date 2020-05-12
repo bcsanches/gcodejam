@@ -5,4 +5,4 @@ I am not an expert on the jam, I do not train or anything like that, I just try 
 
 some work, some are brute force and most simple does not solve the proposed problem. I hope this can be useful for someone.
 
-
+All code was written in C or C++ using Visual Studio, projects and solutions are provided.
